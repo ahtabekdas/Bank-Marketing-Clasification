@@ -3,3 +3,5 @@ This project involves data related to direct marketing campaigns (phone calls) b
 
 ### Turkish:
 Bu proje, Portekiz bir bankasının doğrudan pazarlama kampanyaları (telefon görüşmeleri) ile ilgili verileri içermektedir. Projenin sınıflandırma hedefi, müşterilerin vadeli bir depozitoya abone olup olmayacağını tahmin etmektir.
+
+**Kaggle Link=** https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing
